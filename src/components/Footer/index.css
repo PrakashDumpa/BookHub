@@ -1,0 +1,8 @@
+.icon_button {
+  /* border: 0px; */
+  background-color: transparent;
+  all: unset;
+}
+.icon_button:focus {
+  all: unset;
+}

@@ -1,0 +1,9 @@
+.imageWidth {
+  width: 85%;
+}
+
+.login_form_container {
+  width: 65%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px 20px lightgray;
+}

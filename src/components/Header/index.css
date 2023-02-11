@@ -1,0 +1,22 @@
+.nav_container {
+  width: 85%;
+}
+.nav-item {
+  text-decoration: none;
+  color: rgb(51, 48, 48);
+}
+
+.nav-item:hover {
+  text-decoration: none;
+  color: rgb(51, 48, 48);
+}
+
+.nav_button {
+  cursor: pointer;
+  all: unset;
+}
+
+.nav_button:focus {
+  cursor: pointer;
+  all: unset;
+}

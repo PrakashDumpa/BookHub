@@ -5,8 +5,8 @@ import {Redirect} from 'react-router-dom'
 
 class Login extends Component {
   state = {
-    username: '',
-    password: '',
+    username: 'rahul',
+    password: 'rahul@2021',
     showErrorMsg: false,
     errorMsg: '',
     check: false,
